@@ -4,7 +4,9 @@ Welcome to Winter 2026 CSCD211 EWU Organization Page. This is the Github Organiz
 
 Make sure to **bookmark** this URL https://github.com/EWU-CSCD211-Winter-2026 and check it regularly!
 
-Demo code repository: https://github.com/EWU-CSCD211-Winter-2026/demo-code 
+## Resources
+* Demo code: https://github.com/EWU-CSCD211-Winter-2026/demo-code 
+* Information and Resources: https://github.com/EWU-CSCD211-Winter-2026/info/blob/main/git-credential-setup.md
 
 More info on Canvas > Pages > Schedule
 
